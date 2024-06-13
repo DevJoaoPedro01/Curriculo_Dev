@@ -12,7 +12,7 @@ export function Comments () {
                             <strong>Experiência 1</strong>
                         </div>
                     </header>
-                    <p>Insira sua Experiência</p>
+                    <p>Estágio na Google (6 meses)</p>
                 </div>
 
                 <div className={style.commentsContent2}>
@@ -21,7 +21,7 @@ export function Comments () {
                             <strong>Experiência 2</strong>
                         </div>
                     </header>
-                    <p>Insira sua Experiência</p>
+                    <p>Estágio na Microsoft (10 meses)</p>
                 </div>
 
                 <div className={style.commentsContent3}>
@@ -30,7 +30,7 @@ export function Comments () {
                             <strong>Experiência 3</strong>
                         </div>
                     </header>
-                    <p>Insira sua Experiência</p>
+                    <p>Energisa (Contratado)</p>
                 </div>
             </div>
 
